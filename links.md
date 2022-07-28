@@ -3,4 +3,7 @@
     https://docs.microsoft.com/en-us/learn/modules/explore-analyze-data-with-python/
 * signup for MLSA:
     https://studentambassadors.microsoft.com/
-* https://aka.ms/MSSkills4Students
+* participate in a challange:
+    https://aka.ms/MSSkills4Students
+* attendance form:
+    https://forms.office.com/r/jzqwRwpps4
