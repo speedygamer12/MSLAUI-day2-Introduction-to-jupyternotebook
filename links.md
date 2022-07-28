@@ -5,5 +5,3 @@
     https://studentambassadors.microsoft.com/
 * participate in a challange:
     https://aka.ms/MSSkills4Students
-* attendance form:
-    https://forms.office.com/r/jzqwRwpps4
